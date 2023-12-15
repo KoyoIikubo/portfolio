@@ -5,7 +5,7 @@
   background: linear-gradient(135deg, #000000, #737373);
   position: relative;
   z-index: 10000;
-    animation:fade 2s ease 4.0s forwards;
+    animation:fade 1s ease 3.0s forwards;
 }
 
 @keyframes fade {
